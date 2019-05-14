@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/tbrain/DNN/test"
+all_model_checkpoint_paths: "/tmp/tbrain/DNN/test"
