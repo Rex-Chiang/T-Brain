@@ -1,0 +1,25 @@
+what ever the dataset
+
+check the dimensions(shape ) of the dataset.
+
+check the numerical features and categorical features with select_dtypes
+
+check the skewness of numerical features and fix it with box cox transformations
+
+transform numerical features to categorical features like year and months
+
+create new features if needed
+
+find the missing values in both num and cat features and fill with appropriate values like mean,median,mode
+
+encode the cat features with onehotencoder, labelencoder
+
+scale the features with standardscaler,robust scaler
+
+and fit it with the estimator
+
+if needed do features_selection for the most imp features
+
+ifneeded regularization of features
+
+hence it is completely iterative process to get the best model.
